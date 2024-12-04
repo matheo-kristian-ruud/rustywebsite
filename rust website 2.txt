@@ -1,0 +1,36 @@
+<DOCTYPE html>
+<html>
+<body 
+style="background-color:red;">
+
+<h3 style="backround-color: powderblue;font-family:verdana;color:7px tomato;text-align:center;fontsize:500%;"> RUST TIPS </h3>
+
+<style>
+body{
+     text-align: center;
+     background-image: url('rust.jpg');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+</style>
+
+
+<button onclick="window.location.herf = 'side2.html';"> tips </button>
+
+
+<body>
+ <button style="font-size:25px; background-color:tomato; color:black; border-radius:25px"> tips </button>
+</body>
+
+
+<li> rust is a very competitetive game </li>
+
+<a href="https://www.crazygames.com/game/ragdoll-archers">
+<button style="font-size:25px; background-color:tomato; color;white; border-radius:25px"> recomended videos </button>
+</a>
+
+<p> rust on top </p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1UpgEefMkU?si=A-EGHN7TFcya5vMT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
